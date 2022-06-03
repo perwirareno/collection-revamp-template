@@ -1,2 +1,2 @@
 # collection-revamp-template
- Revamp Collection Template using VueJS and NuxtJS
+ Revamp Collection Template using VueJS
